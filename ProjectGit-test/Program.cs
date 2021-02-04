@@ -6,8 +6,10 @@ namespace ProjectGit_test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!")
+            Console.WriteLine("Hello World!");
             Console.WriteLine("Bom dia!");
+
+            Console.WriteLine("Como você esta hoje?");
 
             Console.ReadLine();
         }
